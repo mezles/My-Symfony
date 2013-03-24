@@ -1,0 +1,16 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: my_symfony
+    database_user: root
+    database_password: null
+    mailer_transport: gmail
+    #mailer_encryption: ssl
+    mailer_auth_mode: login
+    mailer_host: smtp.gmail.com
+    mailer_user: jqt.bladeknight@gmail.com
+    mailer_password: quilaton
+    locale: en
+    secret: 482b57928c5ee37f9ba668838939ee210
+    database_path: null
